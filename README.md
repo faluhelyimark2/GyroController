@@ -17,7 +17,7 @@ Ez egy nyílt forráskódú rendszer, amivel az Android telefonodat egy giroszk�
    * Töltsd le a Python 3.14-et innen: **[python-3.14.6-amd64.exe Letöltése](https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe)**
    * 🚨 **MINDENKÉPP PIPÁLD BE** a telepítő legelső ablakának alján az **"Add python.exe to PATH"** opciót! Ha ez kimarad, a szerver nem fog tudni elindulni.
 2. **ViGEmBus Driver:**
-   * A virtuális Xbox kontroller működéséhez töltsd le és telepítsd a [ViGEmBus Driver-t](https://github.com/nefarius/ViGEmBus/releases) a PC-re!
+   * Töltsd le és telepítsd a drivert innen: **[ViGEmBus_1.22.0_x64_x86_arm64.exe Letöltése](https://github.com/nefarius/ViGEmBus/releases/download/v1.22.0/ViGEmBus_1.22.0_x64_x86_arm64.exe)** *(Ez szükséges a virtuális Xbox kontroller működéséhez)*.
 3. **Szükséges Python csomag:**
    * Nyiss egy Parancssort (CMD), és írd be ezt a parancsot:
      ```cmd
