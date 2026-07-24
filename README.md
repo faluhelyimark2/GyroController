@@ -1,11 +1,5 @@
 # 🎮 Gyro Controller for PC
 
-*Read this in [Magyar](#-magyar) | [English](#-english)*
-
----
-
-## 🇭🇺 Magyar
-
 ### ❓ Mi ez?
 Ez egy nyílt forráskódú rendszer, amivel az Android telefonodat egy giroszkópos **Xbox 360 kontrollerré** alakíthatod PC-n. Kifejezetten autós játékok kormányzásához, valamint FPS/TPS játékok (pl. **Roblox Rivals**) giroszkópos célzásához készült.
 
@@ -32,10 +26,10 @@ Ez egy nyílt forráskódú rendszer, amivel az Android telefonodat egy giroszk�
 
 ---
 
-### 🚀 Hogyan kell használni?
+### 🚀 Hogyan kell használni? (Lépésről lépésre)
 
-1. Telepítsd a **`GyroController.apk`** fájlt a telefonodra.
-2. Győződj meg róla, hogy a telefon és a PC **ugyanarra a Wi-Fi hálózatra** csatlakozik.
-3. Nyiss egy Parancssort (CMD) a PC-n a `server.py` mappájában, és indítsd el:
+1. **Mobil felkészítése:** Telepítsd a **`GyroController.apk`** fájlt az Android telefonodra.
+2. **Hálózat:** Győződj meg róla, hogy a telefonod és a PC-d **ugyanarra a Wi-Fi hálózatra** van csatlakozva.
+3. **Szerver indítása:** Nyiss egy Parancssort (CMD) a PC-n abban a mappában, ahol a `server.py` van, és írd be:
    ```cmd
    python server.py
