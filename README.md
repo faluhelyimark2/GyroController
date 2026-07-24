@@ -26,10 +26,10 @@ Ez egy nyílt forráskódú rendszer, amivel az Android telefonodat egy giroszk�
 
 ---
 
-### 🚀 Hogyan kell használni? (Lépésről lépésre)
+### 🚀 Hogyan kell elindítani? (Lépésről lépésre)
 
-1. **Mobil felkészítése:** Telepítsd a **`GyroController.apk`** fájlt az Android telefonodra.
-2. **Hálózat:** Győződj meg róla, hogy a telefonod és a PC-d **ugyanarra a Wi-Fi hálózatra** van csatlakozva.
-3. **Szerver indítása:** Nyiss egy Parancssort (CMD) a PC-n abban a mappában, ahol a `server.py` van, és írd be:
+1. **Telepítsd az appot:** Másold át a **`GyroController.apk`** fájlt a telefonodra, és telepítsd fel.
+2. **Ellenőrizd a Wi-Fi-t:** Győződj meg róla, hogy a telefonod és a PC-d **ugyanarra a Wi-Fi hálózatra** csatlakozik.
+3. **Indítsd el a PC-s szervert:** Nyiss egy Parancssort (CMD) a PC-n abban a mappában, ahol a `server.py` fájl található, és futtasd a következő parancsot:
    ```cmd
    python server.py
